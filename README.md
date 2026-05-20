@@ -92,7 +92,7 @@ I am actively seeking **entry-level to junior roles** in:
 ## 📬 Let's Connect
 
 - 📧 lujc1217@gmail.com
-- 💼 (https://www.linkedin.com/in/luigine-chan-587587386/?skipRedirect=true)
+- 💼 https://www.linkedin.com/in/luigine-chan-587587386/?skipRedirect=true
 - 📍 Palmerston North, New Zealand
 - 🗣️ Open to work · Available for informational interviews
 
