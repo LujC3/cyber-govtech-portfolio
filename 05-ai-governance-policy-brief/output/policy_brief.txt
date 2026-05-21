@@ -1,0 +1,180 @@
+========================================================================
+  POLICY BRIEF
+  AI Governance Frameworks for the Philippines:
+  Gaps, Benchmarks, and a Path Forward
+========================================================================
+
+  Prepared for   : Philippine policymakers and legislative staff
+  Date           : May 2026
+  Author         : [Your Name]
+  Affiliation    : Master's in Contemporary International Studies
+                   Institute Pacific, New Zealand
+
+------------------------------------------------------------------------
+
+  EXECUTIVE SUMMARY
+
+  The Philippines ranks 65th globally in AI readiness — behind
+  Singapore (2nd), Malaysia (23rd), Thailand (37th), Indonesia
+  (42nd), and Vietnam (59th) within ASEAN alone. While the
+  government has adopted multiple AI roadmaps and strategies, the
+  country lacks a binding legal framework for AI governance, a
+  dedicated institutional authority, and a risk classification
+  system for AI applications.
+
+  As 2026 ASEAN Chair, the Philippines has both the opportunity
+  and obligation to advance regional AI governance — but credible
+  regional leadership requires domestic institutional readiness.
+
+  This brief identifies 10 governance gaps, benchmarks them
+  against ASEAN peers and global leaders, and proposes a phased
+  policy roadmap for Philippine AI governance.
+
+------------------------------------------------------------------------
+
+  KEY DATA POINTS
+
+  • Global AI Readiness Rank     : 65 / 193
+  • Readiness Score              : 44.7 / 100
+  • Government Pillar            : 42.8 / 100
+  • OECD Digital Govt Index       : 0.28 / 1.0
+  • ASEAN Digital Govt Average    : 0.37 / 1.0
+  • Gap from Singapore            : 39.4 points
+  • Binding AI legislation        : None
+  • Dedicated AI authority         : None
+
+------------------------------------------------------------------------
+
+  GOVERNANCE GAPS (10 DIMENSIONS)
+
+  ●●●●●  Legal Framework
+           Current: No dedicated AI law; reliance on DPA 2012 and E-Governance Act (RA 12254)
+           Gap:     No binding legal framework specifically governing AI development or deployment
+           Bench:   Vietnam enacted AI Law No. 134/2025; EU AI Act operational since 2024
+
+  ●●●●○  Institutional Architecture
+           Current: Multiple agencies (DICT, DOST, DEPDev) with overlapping AI mandates
+           Gap:     No single coordinating authority for AI governance; fragmented jurisdiction
+           Bench:   Singapore has dedicated AI agency (AISG); Thailand has NSTDA AI Center
+
+  ●●●●●  Risk Classification
+           Current: No AI risk classification system in Philippine law or regulation
+           Gap:     No mechanism to distinguish high-risk AI from low-risk applications
+           Bench:   EU AI Act tiered risk (unacceptable/high/limited/minimal); ASEAN Guide recommends risk-based approach
+
+  ●●●●●  Data Infrastructure
+           Current: OECD Digital Government Index score 0.28/1.0 (third lowest in ASEAN-8)
+           Gap:     Government data systems are fragmented; limited interoperability; no national data strategy
+           Bench:   Singapore scores 0.74; ASEAN average 0.37
+
+  ●●●●○  Workforce Capacity
+           Current: SPARTA platform and DICT training programs exist but underscaled
+           Gap:     Insufficient AI-literate civil servants; no AI competency framework for government
+           Bench:   South Korea requires AI literacy for all senior officials; Singapore GovTech academy
+
+  ●●●●○  Algorithmic Transparency
+           Current: No requirement for explainability or audit of government AI systems
+           Gap:     Citizens have no mechanism to challenge AI-assisted government decisions
+           Bench:   EU AI Act requires explanation for high-risk decisions; NZ Algorithm Charter
+
+  ●●●○○  Ethical Guidelines
+           Current: NAISR 2.0 includes ethical principles but they are non-binding
+           Gap:     No enforceable ethical standards; no ethics review process for government AI
+           Bench:   ASEAN Guide provides principles; Thailand has AI ethics committee
+
+  ●●●●○  Public Sector AI Adoption
+           Current: Pilot projects (DICT chatbots, DOST research) but no systematic deployment
+           Gap:     No procurement framework for AI solutions; no standards for government AI
+           Bench:   Indonesia Pancasila-grounded AI in public services; Malaysia MyDigital initiative
+
+  ●●●○○  International Alignment
+           Current: Signatory to ASEAN Guide; participant in UNESCO assessment; 2026 ASEAN Chair
+           Gap:     Strong declaratory commitments but weak domestic implementation
+           Bench:   Singapore leads ASEAN implementation; Brunei aligned national guide to ASEAN in 2025
+
+  ●●●●○  Cybersecurity Integration
+           Current: Cybercrime Prevention Act (RA 10175) and DICT cybersecurity mandate exist
+           Gap:     AI-specific cybersecurity risks (adversarial attacks, deepfakes) not addressed in current law
+           Bench:   DICT Grok takedown order (2026) showed reactive capability but no proactive framework
+
+------------------------------------------------------------------------
+
+  POLICY RECOMMENDATIONS
+
+  PHASE 1 — IMMEDIATE (2026)
+  ──────────────────────────
+  1. Finalize and publish the DEPDev AI Governance Framework
+     as announced at the 2026 National Innovation Day.
+
+  2. Designate a single coordinating authority for AI governance
+     (recommended: DEPDev, with DICT as implementing agency).
+
+  3. Issue an Executive Order requiring all government agencies
+     to inventory existing and planned AI deployments.
+
+  PHASE 2 — SHORT-TERM (2026-2027)
+  ────────────────────────────────
+  4. Draft a Philippine AI Governance Act adopting risk-based
+     classification aligned with the ASEAN Guide and EU AI Act
+     tiered model.
+
+  5. Develop a Philippine Government Data Strategy to raise
+     the OECD Digital Government score from 0.28 toward the
+     ASEAN average of 0.37.
+
+  6. Adopt a Philippine Algorithm Charter modeled on New
+     Zealand's, requiring transparency for government AI.
+
+  7. Mandate AI literacy modules in CSC career development
+     programs for all senior government officials.
+
+  PHASE 3 — MEDIUM-TERM (2027-2028)
+  ─────────────────────────────────
+  8. Establish a National AI Ethics Board with review authority
+     over high-risk government AI applications.
+
+  9. Issue DBM-GPPB procurement guidelines for AI solutions
+     under RA 9184, including explainability and bias testing
+     requirements.
+
+  10. Amend RA 10175 (Cybercrime Prevention Act) to address
+      AI-specific threats: adversarial attacks, deepfakes,
+      and automated social engineering.
+
+------------------------------------------------------------------------
+
+  THE ASEAN CHAIR OPPORTUNITY
+
+  The Philippines assumed the ASEAN Chairmanship on 1 January
+  2026 under the theme "Navigating Our Future Together." This
+  provides a unique window to:
+
+  • Champion the ASEAN Responsible AI Roadmap 2025-2030
+  • Propose harmonized AI risk classification across ASEAN
+  • Host an ASEAN AI Governance Summit (Cebu or Manila)
+  • Demonstrate domestic implementation as credibility signal
+
+  Regional leadership without domestic readiness produces
+  declarations without implementation. The domestic framework
+  must advance in parallel with ASEAN commitments.
+
+------------------------------------------------------------------------
+
+  COMPARATIVE NOTE: NEW ZEALAND
+
+  New Zealand offers a relevant benchmark as a small democracy
+  with strong institutional capacity. Its Algorithm Charter
+  (voluntary, adopted by 30+ government agencies) demonstrates
+  that transparency norms can be implemented without binding
+  legislation — a pragmatic model for the Philippines, where
+  legislative processes are slow and institutional capacity
+  is uneven. However, binding legislation will ultimately be
+  necessary as AI adoption deepens in government services.
+
+========================================================================
+  This policy brief is produced as part of a Master's thesis
+  portfolio at the Institute Pacific, New Zealand. It draws
+  on publicly available data from the Oxford Insights AI
+  Readiness Index, OECD, UNESCO, ASEAN Secretariat, and
+  Philippine government publications.
+========================================================================
