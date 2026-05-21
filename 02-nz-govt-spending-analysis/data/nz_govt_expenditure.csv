@@ -1,0 +1,246 @@
+fiscal_year,year_type,sector,appropriation,responsible_minister,amount_nzd_millions,appropriation_type,expense_type
+2019/20,Actual,Social Security and Welfare,Social Security and Welfare,Minister for Social Development,29966.2,Non-Departmental,Other Expenses
+2020/21,Actual,Social Security and Welfare,Social Security and Welfare,Minister for Social Development,36820.4,Non-Departmental,Output Expenses
+2021/22,Actual,Social Security and Welfare,Social Security and Welfare,Minister for Social Development,33736.8,Departmental,Output Expenses
+2022/23,Actual,Social Security and Welfare,Social Security and Welfare,Minister for Social Development,30209.0,Non-Departmental,Output Expenses
+2023/24,Actual,Social Security and Welfare,Social Security and Welfare,Minister for Social Development,28574.7,Departmental,Output Expenses
+2024/25,Estimated Actual,Social Security and Welfare,Social Security and Welfare,Minister for Social Development,27266.6,Departmental,Capital Expenditure
+2025/26,Budget,Social Security and Welfare,Social Security and Welfare,Minister for Social Development,25214.8,Departmental,Output Expenses
+2019/20,Actual,Health,Health Services Funding,Minister of Health,11263.1,Non-Departmental,Capital Expenditure
+2019/20,Actual,Health,Public Health,Minister of Health,2283.6,Non-Departmental,Other Expenses
+2019/20,Actual,Health,Disability Support Services,Minister of Health,2695.2,Non-Departmental,Other Expenses
+2019/20,Actual,Health,Mental Health Services,Minister of Health,1887.4,Departmental,Output Expenses
+2019/20,Actual,Health,Health Workforce,Minister of Health,1189.7,Departmental,Capital Expenditure
+2019/20,Actual,Health,Health Infrastructure,Minister of Health,666.4,Non-Departmental,Other Expenses
+2020/21,Actual,Health,Health Services Funding,Minister of Health,12610.5,Departmental,Output Expenses
+2020/21,Actual,Health,Public Health,Minister of Health,2883.1,Departmental,Output Expenses
+2020/21,Actual,Health,Disability Support Services,Minister of Health,3744.0,Departmental,Capital Expenditure
+2020/21,Actual,Health,Mental Health Services,Minister of Health,1621.5,Departmental,Other Expenses
+2020/21,Actual,Health,Health Workforce,Minister of Health,832.3,Non-Departmental,Other Expenses
+2020/21,Actual,Health,Health Infrastructure,Minister of Health,1324.1,Departmental,Output Expenses
+2021/22,Actual,Health,Health Services Funding,Minister of Health,14191.8,Non-Departmental,Benefits or Related Expenses
+2021/22,Actual,Health,Public Health,Minister of Health,2727.3,Non-Departmental,Benefits or Related Expenses
+2021/22,Actual,Health,Disability Support Services,Minister of Health,4029.0,Departmental,Output Expenses
+2021/22,Actual,Health,Mental Health Services,Minister of Health,1770.5,Non-Departmental,Other Expenses
+2021/22,Actual,Health,Health Workforce,Minister of Health,1178.8,Non-Departmental,Other Expenses
+2021/22,Actual,Health,Health Infrastructure,Minister of Health,985.7,Departmental,Capital Expenditure
+2022/23,Actual,Health,Health Services Funding,Minister of Health,14678.6,Non-Departmental,Other Expenses
+2022/23,Actual,Health,Public Health,Minister of Health,3558.7,Departmental,Capital Expenditure
+2022/23,Actual,Health,Disability Support Services,Minister of Health,3958.7,Departmental,Benefits or Related Expenses
+2022/23,Actual,Health,Mental Health Services,Minister of Health,2202.4,Non-Departmental,Output Expenses
+2022/23,Actual,Health,Health Workforce,Minister of Health,1765.8,Non-Departmental,Benefits or Related Expenses
+2022/23,Actual,Health,Health Infrastructure,Minister of Health,1690.1,Departmental,Output Expenses
+2023/24,Actual,Health,Health Services Funding,Minister of Health,15325.5,Departmental,Capital Expenditure
+2023/24,Actual,Health,Public Health,Minister of Health,3404.7,Departmental,Output Expenses
+2023/24,Actual,Health,Disability Support Services,Minister of Health,4417.6,Non-Departmental,Other Expenses
+2023/24,Actual,Health,Mental Health Services,Minister of Health,2549.9,Non-Departmental,Other Expenses
+2023/24,Actual,Health,Health Workforce,Minister of Health,1331.7,Departmental,Other Expenses
+2023/24,Actual,Health,Health Infrastructure,Minister of Health,1935.4,Departmental,Output Expenses
+2024/25,Estimated Actual,Health,Health Services Funding,Minister of Health,16210.4,Non-Departmental,Benefits or Related Expenses
+2024/25,Estimated Actual,Health,Public Health,Minister of Health,3045.5,Departmental,Output Expenses
+2024/25,Estimated Actual,Health,Disability Support Services,Minister of Health,4418.6,Departmental,Output Expenses
+2024/25,Estimated Actual,Health,Mental Health Services,Minister of Health,2788.6,Departmental,Other Expenses
+2024/25,Estimated Actual,Health,Health Workforce,Minister of Health,1135.9,Non-Departmental,Output Expenses
+2024/25,Estimated Actual,Health,Health Infrastructure,Minister of Health,959.3,Departmental,Output Expenses
+2025/26,Budget,Health,Health Services Funding,Minister of Health,16618.3,Departmental,Benefits or Related Expenses
+2025/26,Budget,Health,Public Health,Minister of Health,3070.0,Departmental,Benefits or Related Expenses
+2025/26,Budget,Health,Disability Support Services,Minister of Health,4105.6,Departmental,Capital Expenditure
+2025/26,Budget,Health,Mental Health Services,Minister of Health,2878.4,Departmental,Benefits or Related Expenses
+2025/26,Budget,Health,Health Workforce,Minister of Health,1708.7,Non-Departmental,Other Expenses
+2025/26,Budget,Health,Health Infrastructure,Minister of Health,1387.7,Departmental,Output Expenses
+2019/20,Actual,Education,Primary and Secondary Schooling,Minister of Education,8260.6,Non-Departmental,Output Expenses
+2019/20,Actual,Education,Tertiary Education,Minister of Education,4107.2,Non-Departmental,Benefits or Related Expenses
+2019/20,Actual,Education,Early Childhood Education,Minister of Education,1786.7,Departmental,Output Expenses
+2019/20,Actual,Education,Special Education,Minister of Education,796.4,Departmental,Other Expenses
+2019/20,Actual,Education,Education System Stewardship,Minister of Education,369.9,Non-Departmental,Capital Expenditure
+2020/21,Actual,Education,Primary and Secondary Schooling,Minister of Education,8849.1,Non-Departmental,Capital Expenditure
+2020/21,Actual,Education,Tertiary Education,Minister of Education,4171.1,Departmental,Capital Expenditure
+2020/21,Actual,Education,Early Childhood Education,Minister of Education,2046.5,Non-Departmental,Capital Expenditure
+2020/21,Actual,Education,Special Education,Minister of Education,942.6,Departmental,Output Expenses
+2020/21,Actual,Education,Education System Stewardship,Minister of Education,816.7,Departmental,Output Expenses
+2021/22,Actual,Education,Primary and Secondary Schooling,Minister of Education,9093.9,Departmental,Output Expenses
+2021/22,Actual,Education,Tertiary Education,Minister of Education,4343.0,Non-Departmental,Capital Expenditure
+2021/22,Actual,Education,Early Childhood Education,Minister of Education,2092.5,Non-Departmental,Capital Expenditure
+2021/22,Actual,Education,Special Education,Minister of Education,904.9,Departmental,Capital Expenditure
+2021/22,Actual,Education,Education System Stewardship,Minister of Education,947.0,Departmental,Output Expenses
+2022/23,Actual,Education,Primary and Secondary Schooling,Minister of Education,9488.2,Departmental,Output Expenses
+2022/23,Actual,Education,Tertiary Education,Minister of Education,5079.6,Departmental,Benefits or Related Expenses
+2022/23,Actual,Education,Early Childhood Education,Minister of Education,2204.7,Departmental,Benefits or Related Expenses
+2022/23,Actual,Education,Special Education,Minister of Education,1409.7,Departmental,Benefits or Related Expenses
+2022/23,Actual,Education,Education System Stewardship,Minister of Education,664.5,Departmental,Other Expenses
+2023/24,Actual,Education,Primary and Secondary Schooling,Minister of Education,10633.8,Departmental,Other Expenses
+2023/24,Actual,Education,Tertiary Education,Minister of Education,4889.0,Departmental,Capital Expenditure
+2023/24,Actual,Education,Early Childhood Education,Minister of Education,2300.6,Non-Departmental,Output Expenses
+2023/24,Actual,Education,Special Education,Minister of Education,1250.7,Departmental,Other Expenses
+2023/24,Actual,Education,Education System Stewardship,Minister of Education,441.3,Departmental,Benefits or Related Expenses
+2024/25,Estimated Actual,Education,Primary and Secondary Schooling,Minister of Education,10346.9,Departmental,Benefits or Related Expenses
+2024/25,Estimated Actual,Education,Tertiary Education,Minister of Education,4794.5,Non-Departmental,Benefits or Related Expenses
+2024/25,Estimated Actual,Education,Early Childhood Education,Minister of Education,2598.7,Departmental,Benefits or Related Expenses
+2024/25,Estimated Actual,Education,Special Education,Minister of Education,1301.0,Non-Departmental,Output Expenses
+2024/25,Estimated Actual,Education,Education System Stewardship,Minister of Education,757.4,Departmental,Other Expenses
+2025/26,Budget,Education,Primary and Secondary Schooling,Minister of Education,11553.8,Non-Departmental,Other Expenses
+2025/26,Budget,Education,Tertiary Education,Minister of Education,5150.3,Non-Departmental,Other Expenses
+2025/26,Budget,Education,Early Childhood Education,Minister of Education,2758.2,Departmental,Output Expenses
+2025/26,Budget,Education,Special Education,Minister of Education,868.0,Departmental,Output Expenses
+2025/26,Budget,Education,Education System Stewardship,Minister of Education,493.0,Non-Departmental,Other Expenses
+2019/20,Actual,NZ Superannuation,NZ Superannuation,Minister for Social Development,15567.7,Non-Departmental,Output Expenses
+2020/21,Actual,NZ Superannuation,NZ Superannuation,Minister for Social Development,16851.8,Non-Departmental,Benefits or Related Expenses
+2021/22,Actual,NZ Superannuation,NZ Superannuation,Minister for Social Development,17456.7,Departmental,Other Expenses
+2022/23,Actual,NZ Superannuation,NZ Superannuation,Minister for Social Development,18683.1,Departmental,Output Expenses
+2023/24,Actual,NZ Superannuation,NZ Superannuation,Minister for Social Development,20235.0,Departmental,Output Expenses
+2024/25,Estimated Actual,NZ Superannuation,NZ Superannuation,Minister for Social Development,22793.3,Non-Departmental,Output Expenses
+2025/26,Budget,NZ Superannuation,NZ Superannuation,Minister for Social Development,25085.0,Departmental,Benefits or Related Expenses
+2019/20,Actual,Core Government Services,Core Government Services,Various,10107.1,Departmental,Other Expenses
+2020/21,Actual,Core Government Services,Core Government Services,Various,11264.8,Departmental,Other Expenses
+2021/22,Actual,Core Government Services,Core Government Services,Various,12302.7,Non-Departmental,Output Expenses
+2022/23,Actual,Core Government Services,Core Government Services,Various,12591.3,Departmental,Other Expenses
+2023/24,Actual,Core Government Services,Core Government Services,Various,12861.1,Non-Departmental,Benefits or Related Expenses
+2024/25,Estimated Actual,Core Government Services,Core Government Services,Various,12568.6,Non-Departmental,Capital Expenditure
+2025/26,Budget,Core Government Services,Core Government Services,Various,11824.4,Departmental,Output Expenses
+2019/20,Actual,Law and Order,Police,Minister of Justice,1968.2,Departmental,Benefits or Related Expenses
+2019/20,Actual,Law and Order,Corrections and Prisons,Minister of Justice,1629.8,Departmental,Benefits or Related Expenses
+2019/20,Actual,Law and Order,Courts,Minister of Justice,794.8,Non-Departmental,Other Expenses
+2019/20,Actual,Law and Order,Serious Fraud Office and Crown Law,Minister of Justice,464.2,Departmental,Output Expenses
+2019/20,Actual,Law and Order,Legal Aid,Minister of Justice,626.2,Non-Departmental,Benefits or Related Expenses
+2020/21,Actual,Law and Order,Police,Minister of Justice,2204.1,Non-Departmental,Capital Expenditure
+2020/21,Actual,Law and Order,Corrections and Prisons,Minister of Justice,1818.0,Departmental,Benefits or Related Expenses
+2020/21,Actual,Law and Order,Courts,Minister of Justice,938.1,Departmental,Benefits or Related Expenses
+2020/21,Actual,Law and Order,Serious Fraud Office and Crown Law,Minister of Justice,486.0,Non-Departmental,Other Expenses
+2020/21,Actual,Law and Order,Legal Aid,Minister of Justice,634.4,Departmental,Benefits or Related Expenses
+2021/22,Actual,Law and Order,Police,Minister of Justice,2261.1,Departmental,Output Expenses
+2021/22,Actual,Law and Order,Corrections and Prisons,Minister of Justice,1801.3,Non-Departmental,Capital Expenditure
+2021/22,Actual,Law and Order,Courts,Minister of Justice,847.3,Departmental,Capital Expenditure
+2021/22,Actual,Law and Order,Serious Fraud Office and Crown Law,Minister of Justice,390.3,Departmental,Benefits or Related Expenses
+2021/22,Actual,Law and Order,Legal Aid,Minister of Justice,542.4,Departmental,Capital Expenditure
+2022/23,Actual,Law and Order,Police,Minister of Justice,2388.0,Departmental,Other Expenses
+2022/23,Actual,Law and Order,Corrections and Prisons,Minister of Justice,1881.9,Departmental,Other Expenses
+2022/23,Actual,Law and Order,Courts,Minister of Justice,1072.4,Non-Departmental,Other Expenses
+2022/23,Actual,Law and Order,Serious Fraud Office and Crown Law,Minister of Justice,365.7,Departmental,Other Expenses
+2022/23,Actual,Law and Order,Legal Aid,Minister of Justice,521.8,Departmental,Other Expenses
+2023/24,Actual,Law and Order,Police,Minister of Justice,2607.3,Non-Departmental,Output Expenses
+2023/24,Actual,Law and Order,Corrections and Prisons,Minister of Justice,1979.2,Departmental,Other Expenses
+2023/24,Actual,Law and Order,Courts,Minister of Justice,882.9,Departmental,Benefits or Related Expenses
+2023/24,Actual,Law and Order,Serious Fraud Office and Crown Law,Minister of Justice,432.6,Non-Departmental,Other Expenses
+2023/24,Actual,Law and Order,Legal Aid,Minister of Justice,703.0,Departmental,Output Expenses
+2024/25,Estimated Actual,Law and Order,Police,Minister of Justice,2721.5,Non-Departmental,Other Expenses
+2024/25,Estimated Actual,Law and Order,Corrections and Prisons,Minister of Justice,2146.7,Non-Departmental,Other Expenses
+2024/25,Estimated Actual,Law and Order,Courts,Minister of Justice,1065.2,Non-Departmental,Capital Expenditure
+2024/25,Estimated Actual,Law and Order,Serious Fraud Office and Crown Law,Minister of Justice,539.6,Departmental,Other Expenses
+2024/25,Estimated Actual,Law and Order,Legal Aid,Minister of Justice,673.7,Departmental,Other Expenses
+2025/26,Budget,Law and Order,Police,Minister of Justice,2711.8,Departmental,Other Expenses
+2025/26,Budget,Law and Order,Corrections and Prisons,Minister of Justice,2179.8,Departmental,Benefits or Related Expenses
+2025/26,Budget,Law and Order,Courts,Minister of Justice,1098.3,Departmental,Benefits or Related Expenses
+2025/26,Budget,Law and Order,Serious Fraud Office and Crown Law,Minister of Justice,557.4,Non-Departmental,Other Expenses
+2025/26,Budget,Law and Order,Legal Aid,Minister of Justice,611.3,Departmental,Benefits or Related Expenses
+2019/20,Actual,Transport and Communications,State Highway Maintenance and Operations,Minister of Transport,1713.2,Non-Departmental,Benefits or Related Expenses
+2019/20,Actual,Transport and Communications,Public Transport,Minister of Transport,1132.3,Non-Departmental,Capital Expenditure
+2019/20,Actual,Transport and Communications,Road Safety,Minister of Transport,501.4,Departmental,Capital Expenditure
+2019/20,Actual,Transport and Communications,Rail Network,Minister of Transport,703.6,Departmental,Benefits or Related Expenses
+2019/20,Actual,Transport and Communications,Maritime and Aviation,Minister of Transport,425.9,Non-Departmental,Capital Expenditure
+2019/20,Actual,Transport and Communications,Digital Connectivity,Minister of Transport,286.8,Departmental,Output Expenses
+2020/21,Actual,Transport and Communications,State Highway Maintenance and Operations,Minister of Transport,1865.1,Departmental,Output Expenses
+2020/21,Actual,Transport and Communications,Public Transport,Minister of Transport,1331.8,Non-Departmental,Capital Expenditure
+2020/21,Actual,Transport and Communications,Road Safety,Minister of Transport,418.2,Non-Departmental,Output Expenses
+2020/21,Actual,Transport and Communications,Rail Network,Minister of Transport,756.1,Departmental,Other Expenses
+2020/21,Actual,Transport and Communications,Maritime and Aviation,Minister of Transport,499.8,Departmental,Capital Expenditure
+2020/21,Actual,Transport and Communications,Digital Connectivity,Minister of Transport,424.4,Departmental,Benefits or Related Expenses
+2021/22,Actual,Transport and Communications,State Highway Maintenance and Operations,Minister of Transport,1942.6,Departmental,Other Expenses
+2021/22,Actual,Transport and Communications,Public Transport,Minister of Transport,1404.4,Departmental,Other Expenses
+2021/22,Actual,Transport and Communications,Road Safety,Minister of Transport,597.4,Departmental,Benefits or Related Expenses
+2021/22,Actual,Transport and Communications,Rail Network,Minister of Transport,761.3,Non-Departmental,Other Expenses
+2021/22,Actual,Transport and Communications,Maritime and Aviation,Minister of Transport,374.7,Non-Departmental,Output Expenses
+2021/22,Actual,Transport and Communications,Digital Connectivity,Minister of Transport,299.9,Non-Departmental,Benefits or Related Expenses
+2022/23,Actual,Transport and Communications,State Highway Maintenance and Operations,Minister of Transport,2113.7,Non-Departmental,Capital Expenditure
+2022/23,Actual,Transport and Communications,Public Transport,Minister of Transport,1435.1,Departmental,Output Expenses
+2022/23,Actual,Transport and Communications,Road Safety,Minister of Transport,520.8,Departmental,Output Expenses
+2022/23,Actual,Transport and Communications,Rail Network,Minister of Transport,969.2,Departmental,Capital Expenditure
+2022/23,Actual,Transport and Communications,Maritime and Aviation,Minister of Transport,466.6,Departmental,Other Expenses
+2022/23,Actual,Transport and Communications,Digital Connectivity,Minister of Transport,472.8,Departmental,Capital Expenditure
+2023/24,Actual,Transport and Communications,State Highway Maintenance and Operations,Minister of Transport,2179.5,Departmental,Benefits or Related Expenses
+2023/24,Actual,Transport and Communications,Public Transport,Minister of Transport,1547.1,Non-Departmental,Capital Expenditure
+2023/24,Actual,Transport and Communications,Road Safety,Minister of Transport,503.2,Non-Departmental,Capital Expenditure
+2023/24,Actual,Transport and Communications,Rail Network,Minister of Transport,985.6,Departmental,Benefits or Related Expenses
+2023/24,Actual,Transport and Communications,Maritime and Aviation,Minister of Transport,615.2,Departmental,Capital Expenditure
+2023/24,Actual,Transport and Communications,Digital Connectivity,Minister of Transport,456.8,Departmental,Output Expenses
+2024/25,Estimated Actual,Transport and Communications,State Highway Maintenance and Operations,Minister of Transport,2418.8,Non-Departmental,Capital Expenditure
+2024/25,Estimated Actual,Transport and Communications,Public Transport,Minister of Transport,1613.4,Non-Departmental,Other Expenses
+2024/25,Estimated Actual,Transport and Communications,Road Safety,Minister of Transport,601.6,Non-Departmental,Capital Expenditure
+2024/25,Estimated Actual,Transport and Communications,Rail Network,Minister of Transport,959.7,Departmental,Capital Expenditure
+2024/25,Estimated Actual,Transport and Communications,Maritime and Aviation,Minister of Transport,476.6,Non-Departmental,Output Expenses
+2024/25,Estimated Actual,Transport and Communications,Digital Connectivity,Minister of Transport,543.7,Non-Departmental,Other Expenses
+2025/26,Budget,Transport and Communications,State Highway Maintenance and Operations,Minister of Transport,2440.6,Non-Departmental,Output Expenses
+2025/26,Budget,Transport and Communications,Public Transport,Minister of Transport,1873.2,Departmental,Benefits or Related Expenses
+2025/26,Budget,Transport and Communications,Road Safety,Minister of Transport,817.7,Departmental,Benefits or Related Expenses
+2025/26,Budget,Transport and Communications,Rail Network,Minister of Transport,972.4,Departmental,Benefits or Related Expenses
+2025/26,Budget,Transport and Communications,Maritime and Aviation,Minister of Transport,565.9,Non-Departmental,Other Expenses
+2025/26,Budget,Transport and Communications,Digital Connectivity,Minister of Transport,408.3,Departmental,Output Expenses
+2019/20,Actual,Defence,NZDF Operations,Minister of Defence,1429.4,Non-Departmental,Other Expenses
+2019/20,Actual,Defence,Defence Equipment and Capability,Minister of Defence,881.4,Non-Departmental,Other Expenses
+2019/20,Actual,Defence,Veteran Affairs,Minister of Defence,319.4,Departmental,Capital Expenditure
+2019/20,Actual,Defence,Defence Estate,Minister of Defence,452.2,Departmental,Output Expenses
+2020/21,Actual,Defence,NZDF Operations,Minister of Defence,1497.2,Departmental,Benefits or Related Expenses
+2020/21,Actual,Defence,Defence Equipment and Capability,Minister of Defence,937.5,Departmental,Output Expenses
+2020/21,Actual,Defence,Veteran Affairs,Minister of Defence,369.1,Departmental,Output Expenses
+2020/21,Actual,Defence,Defence Estate,Minister of Defence,474.8,Departmental,Other Expenses
+2021/22,Actual,Defence,NZDF Operations,Minister of Defence,1514.7,Departmental,Output Expenses
+2021/22,Actual,Defence,Defence Equipment and Capability,Minister of Defence,1098.9,Departmental,Output Expenses
+2021/22,Actual,Defence,Veteran Affairs,Minister of Defence,340.7,Non-Departmental,Capital Expenditure
+2021/22,Actual,Defence,Defence Estate,Minister of Defence,554.0,Departmental,Other Expenses
+2022/23,Actual,Defence,NZDF Operations,Minister of Defence,1682.2,Departmental,Capital Expenditure
+2022/23,Actual,Defence,Defence Equipment and Capability,Minister of Defence,1104.8,Departmental,Other Expenses
+2022/23,Actual,Defence,Veteran Affairs,Minister of Defence,343.7,Non-Departmental,Output Expenses
+2022/23,Actual,Defence,Defence Estate,Minister of Defence,522.3,Departmental,Capital Expenditure
+2023/24,Actual,Defence,NZDF Operations,Minister of Defence,1811.2,Departmental,Other Expenses
+2023/24,Actual,Defence,Defence Equipment and Capability,Minister of Defence,1124.6,Departmental,Benefits or Related Expenses
+2023/24,Actual,Defence,Veteran Affairs,Minister of Defence,398.0,Non-Departmental,Other Expenses
+2023/24,Actual,Defence,Defence Estate,Minister of Defence,574.5,Departmental,Other Expenses
+2024/25,Estimated Actual,Defence,NZDF Operations,Minister of Defence,2035.0,Departmental,Benefits or Related Expenses
+2024/25,Estimated Actual,Defence,Defence Equipment and Capability,Minister of Defence,1275.4,Departmental,Capital Expenditure
+2024/25,Estimated Actual,Defence,Veteran Affairs,Minister of Defence,459.9,Non-Departmental,Capital Expenditure
+2024/25,Estimated Actual,Defence,Defence Estate,Minister of Defence,701.3,Departmental,Output Expenses
+2025/26,Budget,Defence,NZDF Operations,Minister of Defence,2212.0,Non-Departmental,Benefits or Related Expenses
+2025/26,Budget,Defence,Defence Equipment and Capability,Minister of Defence,1490.5,Departmental,Capital Expenditure
+2025/26,Budget,Defence,Veteran Affairs,Minister of Defence,520.9,Non-Departmental,Other Expenses
+2025/26,Budget,Defence,Defence Estate,Minister of Defence,734.8,Departmental,Other Expenses
+2019/20,Actual,Economic and Industrial Services,Economic and Industrial Services,Various,4455.3,Non-Departmental,Benefits or Related Expenses
+2020/21,Actual,Economic and Industrial Services,Economic and Industrial Services,Various,7146.9,Departmental,Benefits or Related Expenses
+2021/22,Actual,Economic and Industrial Services,Economic and Industrial Services,Various,6024.7,Departmental,Other Expenses
+2022/23,Actual,Economic and Industrial Services,Economic and Industrial Services,Various,5347.6,Departmental,Other Expenses
+2023/24,Actual,Economic and Industrial Services,Economic and Industrial Services,Various,5096.1,Departmental,Other Expenses
+2024/25,Estimated Actual,Economic and Industrial Services,Economic and Industrial Services,Various,4747.7,Non-Departmental,Output Expenses
+2025/26,Budget,Economic and Industrial Services,Economic and Industrial Services,Various,4537.4,Non-Departmental,Output Expenses
+2019/20,Actual,Environmental Protection,Environmental Protection,Minister for the Environment,1834.1,Departmental,Benefits or Related Expenses
+2020/21,Actual,Environmental Protection,Environmental Protection,Minister for the Environment,2111.6,Departmental,Output Expenses
+2021/22,Actual,Environmental Protection,Environmental Protection,Minister for the Environment,2334.3,Departmental,Capital Expenditure
+2022/23,Actual,Environmental Protection,Environmental Protection,Minister for the Environment,2497.9,Non-Departmental,Output Expenses
+2023/24,Actual,Environmental Protection,Environmental Protection,Minister for the Environment,2178.2,Departmental,Output Expenses
+2024/25,Estimated Actual,Environmental Protection,Environmental Protection,Minister for the Environment,1924.5,Departmental,Output Expenses
+2025/26,Budget,Environmental Protection,Environmental Protection,Minister for the Environment,1705.2,Departmental,Benefits or Related Expenses
+2019/20,Actual,Housing and Community Development,Housing and Community Development,Minister of Housing,2760.7,Departmental,Other Expenses
+2020/21,Actual,Housing and Community Development,Housing and Community Development,Minister of Housing,3146.9,Non-Departmental,Capital Expenditure
+2021/22,Actual,Housing and Community Development,Housing and Community Development,Minister of Housing,3615.3,Departmental,Benefits or Related Expenses
+2022/23,Actual,Housing and Community Development,Housing and Community Development,Minister of Housing,4145.2,Non-Departmental,Capital Expenditure
+2023/24,Actual,Housing and Community Development,Housing and Community Development,Minister of Housing,4364.3,Departmental,Capital Expenditure
+2024/25,Estimated Actual,Housing and Community Development,Housing and Community Development,Minister of Housing,3968.9,Departmental,Output Expenses
+2025/26,Budget,Housing and Community Development,Housing and Community Development,Minister of Housing,3868.0,Non-Departmental,Benefits or Related Expenses
+2019/20,Actual,"Heritage, Culture and Recreation","Heritage, Culture and Recreation","Minister for Arts, Culture and Heritage",1584.9,Non-Departmental,Benefits or Related Expenses
+2020/21,Actual,"Heritage, Culture and Recreation","Heritage, Culture and Recreation","Minister for Arts, Culture and Heritage",1875.2,Non-Departmental,Output Expenses
+2021/22,Actual,"Heritage, Culture and Recreation","Heritage, Culture and Recreation","Minister for Arts, Culture and Heritage",1992.7,Departmental,Capital Expenditure
+2022/23,Actual,"Heritage, Culture and Recreation","Heritage, Culture and Recreation","Minister for Arts, Culture and Heritage",1785.0,Non-Departmental,Other Expenses
+2023/24,Actual,"Heritage, Culture and Recreation","Heritage, Culture and Recreation","Minister for Arts, Culture and Heritage",1713.8,Departmental,Benefits or Related Expenses
+2024/25,Estimated Actual,"Heritage, Culture and Recreation","Heritage, Culture and Recreation","Minister for Arts, Culture and Heritage",1525.4,Departmental,Benefits or Related Expenses
+2025/26,Budget,"Heritage, Culture and Recreation","Heritage, Culture and Recreation","Minister for Arts, Culture and Heritage",1395.8,Departmental,Benefits or Related Expenses
+2019/20,Actual,Primary Services,Primary Services,Minister for Primary Industries,1422.9,Departmental,Output Expenses
+2020/21,Actual,Primary Services,Primary Services,Minister for Primary Industries,1473.6,Departmental,Other Expenses
+2021/22,Actual,Primary Services,Primary Services,Minister for Primary Industries,1596.1,Departmental,Other Expenses
+2022/23,Actual,Primary Services,Primary Services,Minister for Primary Industries,1713.6,Departmental,Capital Expenditure
+2023/24,Actual,Primary Services,Primary Services,Minister for Primary Industries,1596.0,Departmental,Capital Expenditure
+2024/25,Estimated Actual,Primary Services,Primary Services,Minister for Primary Industries,1514.1,Departmental,Output Expenses
+2025/26,Budget,Primary Services,Primary Services,Minister for Primary Industries,1377.1,Departmental,Output Expenses
+2019/20,Actual,Finance Costs,Finance Costs,Minister of Finance,4283.9,Departmental,Other Expenses
+2020/21,Actual,Finance Costs,Finance Costs,Minister of Finance,3811.6,Departmental,Benefits or Related Expenses
+2021/22,Actual,Finance Costs,Finance Costs,Minister of Finance,4494.7,Departmental,Other Expenses
+2022/23,Actual,Finance Costs,Finance Costs,Minister of Finance,6121.0,Departmental,Capital Expenditure
+2023/24,Actual,Finance Costs,Finance Costs,Minister of Finance,7946.3,Departmental,Capital Expenditure
+2024/25,Estimated Actual,Finance Costs,Finance Costs,Minister of Finance,8840.7,Departmental,Benefits or Related Expenses
+2025/26,Budget,Finance Costs,Finance Costs,Minister of Finance,9435.3,Departmental,Other Expenses
