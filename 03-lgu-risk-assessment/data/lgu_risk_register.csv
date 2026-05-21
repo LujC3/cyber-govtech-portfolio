@@ -1,0 +1,40 @@
+risk_id,threat_id,threat_name,asset_id,asset_name,department,data_classification,dpa_sensitivity,likelihood,impact,risk_score,risk_level,existing_controls,nist_csf_function
+R029,T010,Non-Compliance with DPA 2012,A003,Civil Registry Database,City Civil Registrar,Highly Confidential,Sensitive Personal Information,5,5,25,Critical,None,Govern
+R031,T010,Non-Compliance with DPA 2012,A011,Social Welfare Beneficiary Database,City Social Welfare Office,Highly Confidential,Sensitive Personal Information,5,5,25,Critical,None,Govern
+R032,T010,Non-Compliance with DPA 2012,A012,City Health Information System,City Health Office,Highly Confidential,Sensitive Personal Information,5,5,25,Critical,None,Govern
+R001,T001,Ransomware Attack,A008,Email Server (On-Premise),MIS Division,Internal,Personal Information,4,5,20,Critical,Antivirus (outdated signatures),Protect / Detect
+R027,T010,Non-Compliance with DPA 2012,A001,Real Property Tax System (RPTS),City Treasurer's Office,Confidential,Sensitive Personal Information,5,4,20,Critical,Partial privacy notices,Govern
+R028,T010,Non-Compliance with DPA 2012,A002,Business Permit and Licensing System (BPLS),Business Permits Office,Confidential,Personal Information,5,4,20,Critical,None,Govern
+R002,T001,Ransomware Attack,A015,Employee Workstations (Desktops/Laptops),All Departments,Internal,Personal Information,4,4,16,High,Windows Defender (default config),Protect / Detect
+R018,T005,Unpatched System Exploitation,A008,Email Server (On-Premise),MIS Division,Internal,Personal Information,4,4,16,High,Manual updates (irregular),Identify / Protect
+R019,T005,Unpatched System Exploitation,A009,Network Infrastructure (LAN/WAN),MIS Division,Internal,N/A,4,4,16,High,Vendor-managed (intermittent),Identify / Protect
+R030,T010,Non-Compliance with DPA 2012,A004,Human Resource Information System (HRIS),Human Resource Office,Confidential,Sensitive Personal Information,4,4,16,High,Consent forms (incomplete),Govern
+R033,T011,Privilege Escalation via Shared Admin Accounts,A015,Employee Workstations (Desktops/Laptops),All Departments,Internal,Personal Information,4,4,16,High,Shared admin password known to MIS,Protect
+R003,T001,Ransomware Attack,A014,Backup Storage (NAS),MIS Division,Confidential,Mixed,3,5,15,High,Network segmentation (partial),Protect / Detect
+R004,T001,Ransomware Attack,A001,Real Property Tax System (RPTS),City Treasurer's Office,Confidential,Sensitive Personal Information,3,5,15,High,Daily backup (local only),Protect / Detect
+R006,T002,Phishing / Social Engineering,A008,Email Server (On-Premise),MIS Division,Internal,Personal Information,5,3,15,High,No email filtering or training,Protect
+R007,T002,Phishing / Social Engineering,A015,Employee Workstations (Desktops/Laptops),All Departments,Internal,Personal Information,5,3,15,High,No security awareness program,Protect
+R012,T004,Insider Data Theft,A003,Civil Registry Database,City Civil Registrar,Highly Confidential,Sensitive Personal Information,3,5,15,High,Physical access log only,Protect / Detect
+R013,T004,Insider Data Theft,A011,Social Welfare Beneficiary Database,City Social Welfare Office,Highly Confidential,Sensitive Personal Information,3,5,15,High,Password protection,Protect / Detect
+R014,T004,Insider Data Theft,A012,City Health Information System,City Health Office,Highly Confidential,Sensitive Personal Information,3,5,15,High,User authentication,Protect / Detect
+R017,T005,Unpatched System Exploitation,A015,Employee Workstations (Desktops/Laptops),All Departments,Internal,Personal Information,5,3,15,High,No patch management policy,Identify / Protect
+R026,T009,Backup Failure / Data Loss,A014,Backup Storage (NAS),MIS Division,Confidential,Mixed,3,5,15,High,"Single NAS, no offsite backup",Recover
+R005,T001,Ransomware Attack,A004,Human Resource Information System (HRIS),Human Resource Office,Confidential,Sensitive Personal Information,3,4,12,High,Password-protected access,Protect / Detect
+R008,T002,Phishing / Social Engineering,A002,Business Permit and Licensing System (BPLS),Business Permits Office,Confidential,Personal Information,4,3,12,High,None,Protect
+R009,T002,Phishing / Social Engineering,A013,Accounting and Budget System (eBudget/eNGAS),City Accounting Office,Confidential,N/A,3,4,12,High,Role-based access (basic),Protect
+R011,T003,SQL Injection on Public Portal,A002,Business Permit and Licensing System (BPLS),Business Permits Office,Confidential,Personal Information,3,4,12,High,Firewall (perimeter only),Protect / Detect
+R015,T004,Insider Data Theft,A004,Human Resource Information System (HRIS),Human Resource Office,Confidential,Sensitive Personal Information,3,4,12,High,HR department access only,Protect / Detect
+R025,T008,Unauthorized Access to CCTV Feeds,A010,CCTV and Security System,General Services Office,Internal,Personal Information,4,3,12,High,Default passwords unchanged,Protect
+R034,T011,Privilege Escalation via Shared Admin Accounts,A009,Network Infrastructure (LAN/WAN),MIS Division,Internal,N/A,3,4,12,High,Router password changed yearly,Protect
+R035,T011,Privilege Escalation via Shared Admin Accounts,A008,Email Server (On-Premise),MIS Division,Internal,Personal Information,3,4,12,High,Single admin account,Protect
+R016,T004,Insider Data Theft,A006,City Legal Case Management,City Legal Office,Privileged,Sensitive Personal Information,2,5,10,Medium,Attorney-client privilege awareness,Protect / Detect
+R022,T006,Data Breach via Lost/Stolen Device,A014,Backup Storage (NAS),MIS Division,Confidential,Mixed,2,5,10,Medium,Server room lock,Protect
+R039,T012,Supply Chain Compromise (Vendor Access),A012,City Health Information System,City Health Office,Highly Confidential,Sensitive Personal Information,2,5,10,Medium,No vendor access review,Govern / Protect
+R010,T003,SQL Injection on Public Portal,A007,City Website and Public Portal,City Information Office,Public,N/A,3,3,9,Medium,Basic input validation,Protect / Detect
+R020,T005,Unpatched System Exploitation,A007,City Website and Public Portal,City Information Office,Public,N/A,3,3,9,Medium,Hosted externally,Identify / Protect
+R021,T006,Data Breach via Lost/Stolen Device,A015,Employee Workstations (Desktops/Laptops),All Departments,Internal,Personal Information,3,3,9,Medium,No disk encryption,Protect
+R036,T012,Supply Chain Compromise (Vendor Access),A001,Real Property Tax System (RPTS),City Treasurer's Office,Confidential,Sensitive Personal Information,2,4,8,Medium,Vendor NDA signed,Govern / Protect
+R037,T012,Supply Chain Compromise (Vendor Access),A002,Business Permit and Licensing System (BPLS),Business Permits Office,Confidential,Personal Information,2,4,8,Medium,Vendor NDA signed,Govern / Protect
+R038,T012,Supply Chain Compromise (Vendor Access),A013,Accounting and Budget System (eBudget/eNGAS),City Accounting Office,Confidential,N/A,2,4,8,Medium,COA audit trail,Govern / Protect
+R024,T007,DDoS on City Website,A009,Network Infrastructure (LAN/WAN),MIS Division,Internal,N/A,2,3,6,Medium,Firewall,Protect / Respond
+R023,T007,DDoS on City Website,A007,City Website and Public Portal,City Information Office,Public,N/A,2,2,4,Low,ISP-level basic protection,Protect / Respond

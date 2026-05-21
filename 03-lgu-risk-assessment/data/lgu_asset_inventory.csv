@@ -1,0 +1,16 @@
+asset_id,asset_name,department,asset_type,data_classification,contains_personal_data,dpa_sensitivity,users,description
+A001,Real Property Tax System (RPTS),City Treasurer's Office,Application,Confidential,True,Sensitive Personal Information,15,"Manages property tax assessment, collection, and delinquency tracking for all real properties within the city."
+A002,Business Permit and Licensing System (BPLS),Business Permits Office,Application,Confidential,True,Personal Information,20,"Processes business permit applications, renewals, and compliance records including taxpayer identification."
+A003,Civil Registry Database,City Civil Registrar,Database,Highly Confidential,True,Sensitive Personal Information,8,"Birth, death, and marriage records of all registered civil events within the city jurisdiction."
+A004,Human Resource Information System (HRIS),Human Resource Office,Application,Confidential,True,Sensitive Personal Information,10,"Employee records including 201 files, payroll data, leave management, and performance evaluations."
+A005,Bids and Awards Committee (BAC) Records,BAC Secretariat,File Server,Confidential,False,N/A,12,"Procurement documents including bid evaluation reports, abstracts, purchase orders, and contract records under RA 9184."
+A006,City Legal Case Management,City Legal Office,Application,Privileged,True,Sensitive Personal Information,6,"Tracks active litigation, legal opinions, ordinance drafts, and attorney-client privileged communications."
+A007,City Website and Public Portal,City Information Office,Web Application,Public,False,N/A,5,"Public-facing website with transparency seal, bid notices, and service delivery information."
+A008,Email Server (On-Premise),MIS Division,Infrastructure,Internal,True,Personal Information,180,On-premise email server handling all internal and external communications for city employees.
+A009,Network Infrastructure (LAN/WAN),MIS Division,Infrastructure,Internal,False,N/A,200,"Local and wide-area network connecting City Hall, annexes, and satellite offices."
+A010,CCTV and Security System,General Services Office,IoT/Physical,Internal,True,Personal Information,3,IP-based CCTV cameras across city hall premises with 30-day local storage.
+A011,Social Welfare Beneficiary Database,City Social Welfare Office,Database,Highly Confidential,True,Sensitive Personal Information,12,"Records of indigent beneficiaries, PWD registrants, solo parents, and senior citizens receiving city assistance."
+A012,City Health Information System,City Health Office,Application,Highly Confidential,True,Sensitive Personal Information,25,"Patient records from city health centers, immunization logs, TB-DOTS tracking, and maternal care data."
+A013,Accounting and Budget System (eBudget/eNGAS),City Accounting Office,Application,Confidential,False,N/A,10,"COA-prescribed accounting system for obligation tracking, journal entries, and financial reporting."
+A014,Backup Storage (NAS),MIS Division,Infrastructure,Confidential,True,Mixed,3,Network-attached storage containing nightly backups of critical databases and file shares.
+A015,Employee Workstations (Desktops/Laptops),All Departments,Endpoint,Internal,True,Personal Information,180,"Windows-based workstations used by city employees, many running legacy OS versions."

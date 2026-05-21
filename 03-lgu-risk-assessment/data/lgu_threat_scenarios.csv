@@ -1,0 +1,13 @@
+threat_id,threat_name,threat_category,nist_csf_function,attack_vector,threat_actor,applicable_assets
+T001,Ransomware Attack,Malware,Protect / Detect,Phishing email with malicious attachment,Cybercriminal (opportunistic),A008; A015; A014; A001; A004
+T002,Phishing / Social Engineering,Social Engineering,Protect,Spoofed email impersonating government agency,Cybercriminal,A008; A015; A002; A013
+T003,SQL Injection on Public Portal,Web Application Attack,Protect / Detect,Malformed input on web forms,External attacker,A007; A002
+T004,Insider Data Theft,Insider Threat,Protect / Detect,Unauthorized USB copy or cloud upload,Disgruntled or negligent employee,A003; A011; A012; A004; A006
+T005,Unpatched System Exploitation,Vulnerability Exploitation,Identify / Protect,Known CVE on unpatched Windows or application,External attacker (automated scanning),A015; A008; A009; A007
+T006,Data Breach via Lost/Stolen Device,Physical,Protect,Laptop or USB drive lost or stolen,Opportunistic thief,A015; A014
+T007,DDoS on City Website,Availability Attack,Protect / Respond,Volumetric traffic flood,Hacktivist or competitor,A007; A009
+T008,Unauthorized Access to CCTV Feeds,Unauthorized Access,Protect,Default credentials on IP cameras,External attacker or insider,A010
+T009,Backup Failure / Data Loss,Operational,Recover,NAS hardware failure or misconfiguration,N/A (system failure),A014
+T010,Non-Compliance with DPA 2012,Regulatory / Legal,Govern,"Failure to register, lack of privacy notices, no DPO",N/A (compliance gap),A001; A002; A003; A004; A011; A012
+T011,Privilege Escalation via Shared Admin Accounts,Access Control,Protect,Shared local admin credentials across workstations,Insider or lateral movement attacker,A015; A009; A008
+T012,Supply Chain Compromise (Vendor Access),Supply Chain,Govern / Protect,Third-party vendor with remote access to systems,Compromised vendor,A001; A002; A013; A012

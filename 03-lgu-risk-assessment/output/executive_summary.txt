@@ -1,0 +1,34 @@
+======================================================================
+  EXECUTIVE SUMMARY
+  Cybersecurity Risk Assessment
+  Philippine Component City — Local Government Unit
+======================================================================
+
+Date Prepared   : May 2026
+Prepared For    : Office of the City Mayor / City Administrator
+Classification  : CONFIDENTIAL
+
+SCOPE
+  This assessment covers 39 identified cybersecurity risks
+  across 15 information assets spanning 11 city departments.
+
+HEADLINE FINDINGS
+  • 6 risks rated CRITICAL requiring immediate action
+  • 22 risks rated HIGH requiring short-term remediation
+  • 6 risks directly tied to Data Privacy Act compliance
+  • Average risk score: 13.8 out of 25
+
+MOST EXPOSED DEPARTMENT
+  MIS Division — cumulative score 137
+
+PRIMARY RISK DRIVERS
+  1. No Data Protection Officer appointed (DPA violation)
+  2. No security awareness training for employees
+  3. Outdated/unpatched systems across all departments
+  4. Single point of failure in backup infrastructure
+  5. Default credentials on network and IoT devices
+
+RECOMMENDED BUDGET PRIORITY
+  Allocate cybersecurity line item in next Annual Investment
+  Programme (AIP). Estimated minimum: PHP 2-5M for immediate
+  controls (email security, endpoint protection, backup).
