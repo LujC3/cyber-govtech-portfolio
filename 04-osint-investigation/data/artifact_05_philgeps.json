@@ -1,0 +1,31 @@
+{
+  "source": "PhilGEPS (Philippine Government Electronic Procurement System) \u2014 simulated",
+  "query_date": "2026-04-17",
+  "searches": [
+    {
+      "query": "PacificBridge Solutions",
+      "results": 1
+    },
+    {
+      "query": "Ricardo Villanueva",
+      "results": 0
+    }
+  ],
+  "registration": {
+    "philgeps_id": "PGR-2024-00456781",
+    "company_name": "PacificBridge Solutions Inc.",
+    "registration_date": "2024-01-15",
+    "category": "Information and Communication Technology",
+    "platinum_member": false,
+    "business_size": "Micro"
+  },
+  "bid_history": [],
+  "awards_received": [],
+  "red_flags": [
+    "Registered on PhilGEPS only in Jan 2024 \u2014 7 months after SEC incorporation",
+    "Zero bid participation history before current submission",
+    "Zero contract awards \u2014 no government project track record",
+    "Classified as 'Micro' enterprise bidding on a PHP 45M project",
+    "Not a Platinum member \u2014 limited verification"
+  ]
+}

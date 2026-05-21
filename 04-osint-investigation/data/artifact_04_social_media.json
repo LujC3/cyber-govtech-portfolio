@@ -1,0 +1,65 @@
+{
+  "source": "Social Media OSINT (simulated search across platforms)",
+  "query_date": "2026-04-16",
+  "searches_performed": [
+    "PacificBridge Solutions Inc",
+    "PacificBridge Solutions Cebu",
+    "Ricardo Villanueva IT Cebu",
+    "pacificbridgesolutions"
+  ],
+  "findings": {
+    "linkedin": {
+      "company_page": false,
+      "employee_profiles": 0,
+      "ceo_profile": {
+        "name": "Ricardo M. Villanueva",
+        "headline": "Entrepreneur | IT Consultant",
+        "connections": 87,
+        "experience": [
+          {
+            "role": "CEO",
+            "company": "PacificBridge Solutions Inc.",
+            "period": "Jun 2023 \u2013 Present"
+          },
+          {
+            "role": "Sales Associate",
+            "company": "MegaTech Computer Sales",
+            "period": "2018 \u2013 2023"
+          }
+        ],
+        "education": "BS Information Technology \u2014 University of the Visayas (2017)",
+        "endorsements": 2,
+        "posts": 0
+      },
+      "notes": "No company page. CEO's only prior role was retail computer sales \u2014 no infrastructure project experience."
+    },
+    "facebook": {
+      "company_page": true,
+      "page_created": "2023-07-25",
+      "followers": 43,
+      "posts": 5,
+      "last_post": "2023-11-02",
+      "content_type": "Generic motivational quotes and stock photos of server rooms",
+      "reviews": 0,
+      "check_ins": 0,
+      "notes": "Page appears manufactured. No customer engagement, no project photos, no employee tagging."
+    },
+    "twitter_x": {
+      "account_found": false
+    },
+    "instagram": {
+      "account_found": false
+    },
+    "github": {
+      "account_found": false
+    }
+  },
+  "red_flags": [
+    "No LinkedIn company page \u2014 unusual for a legitimate IT firm",
+    "CEO has 87 connections and zero posts \u2014 minimal professional network",
+    "CEO's prior experience is retail computer sales, not infrastructure",
+    "Facebook page has 43 followers and has been inactive since Nov 2023",
+    "No employee profiles found on any platform",
+    "No technical presence (GitHub, Stack Overflow, tech blogs)"
+  ]
+}

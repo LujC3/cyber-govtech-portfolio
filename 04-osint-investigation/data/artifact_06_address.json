@@ -1,0 +1,22 @@
+{
+  "source": "Google Maps / Street View / Building Directory (simulated)",
+  "query_date": "2026-04-17",
+  "registered_address": "Unit 1205, Pacific Century Tower, Osme\u00f1a Blvd, Cebu City 6000",
+  "findings": {
+    "building_exists": true,
+    "building_type": "Mixed-use office/residential condominium",
+    "unit_1205": {
+      "status": "Virtual office / co-working space",
+      "provider": "FlexSpace Cebu",
+      "description": "Shared address service \u2014 PHP 2,500/month. Includes mail forwarding and occasional meeting room access. No permanent office."
+    },
+    "signage": "No PacificBridge Solutions signage visible",
+    "reception": "Building reception has no record of PacificBridge as a regular tenant"
+  },
+  "red_flags": [
+    "Registered address is a virtual office, not a real business premises",
+    "No physical signage or permanent presence",
+    "Virtual office costs PHP 2,500/month \u2014 suggests minimal operational overhead",
+    "Building reception does not recognize the company name"
+  ]
+}

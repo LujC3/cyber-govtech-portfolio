@@ -1,0 +1,37 @@
+{
+  "source": "Cross-reference analysis (SEC, DTI, PhilGEPS, social media)",
+  "query_date": "2026-04-18",
+  "primary_entity": "PacificBridge Solutions Inc.",
+  "related_entities": [
+    {
+      "entity": "CebuTech Builders Corp.",
+      "connection": "Angela S. Tan listed as Treasurer in both companies",
+      "sec_reg": "CS-2022-04231",
+      "status": "Revoked (non-filing of GIS for 2 consecutive years)",
+      "notes": "Previous company of same incorporator \u2014 dissolved for non-compliance"
+    },
+    {
+      "entity": "MegaTech Computer Sales",
+      "connection": "Ricardo Villanueva's previous employer (retail)",
+      "dti_reg": "DTI-07-2018-22134",
+      "status": "Active (sole proprietorship)",
+      "notes": "Computer retail shop in Colon St, Cebu. Not an IT infrastructure firm."
+    },
+    {
+      "entity": "Villanueva, Ricardo M. (Personal)",
+      "connection": "CEO / Primary incorporator",
+      "findings": [
+        "No professional certifications found (no PRC, no IT certs)",
+        "No published papers or conference appearances",
+        "Personal Facebook shows lifestyle posts, no professional content",
+        "No court records found (civil/criminal) \u2014 clean on this front"
+      ]
+    }
+  ],
+  "red_flags": [
+    "Co-incorporator (Tan) was officer in a previously revoked company",
+    "CEO's professional background is retail, not infrastructure",
+    "No professional certifications held by any incorporator",
+    "Pattern: incorporators appear to register companies for bidding purposes"
+  ]
+}

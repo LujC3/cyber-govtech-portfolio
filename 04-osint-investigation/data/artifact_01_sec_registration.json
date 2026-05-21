@@ -1,0 +1,48 @@
+{
+  "source": "SEC Company Registration Search (simulated)",
+  "query_date": "2026-04-15",
+  "company_name": "PacificBridge Solutions Inc.",
+  "sec_registration_no": "CS-2023-07812",
+  "date_registered": "2023-06-12",
+  "registered_address": "Unit 1205, Pacific Century Tower, Osme\u00f1a Blvd, Cebu City 6000",
+  "status": "Active",
+  "primary_purpose": "Information Technology Consulting, Systems Integration, Network Infrastructure",
+  "authorized_capital_stock": "PHP 5,000,000.00",
+  "paid_up_capital": "PHP 1,250,000.00",
+  "incorporators": [
+    {
+      "name": "Ricardo M. Villanueva",
+      "nationality": "Filipino",
+      "shares": 5000
+    },
+    {
+      "name": "Angela S. Tan",
+      "nationality": "Filipino",
+      "shares": 3000
+    },
+    {
+      "name": "Mark Joseph D. Reyes",
+      "nationality": "Filipino",
+      "shares": 2000
+    }
+  ],
+  "directors": [
+    {
+      "name": "Ricardo M. Villanueva",
+      "position": "President/CEO"
+    },
+    {
+      "name": "Angela S. Tan",
+      "position": "Treasurer"
+    },
+    {
+      "name": "Mark Joseph D. Reyes",
+      "position": "Corporate Secretary"
+    }
+  ],
+  "red_flags": [
+    "Company registered only 10 months before bid submission",
+    "Paid-up capital (PHP 1.25M) is far below project value (PHP 45M)",
+    "Only 3 incorporators \u2014 minimum required under Corporation Code"
+  ]
+}

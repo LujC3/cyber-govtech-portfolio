@@ -1,0 +1,23 @@
+{
+  "source": "WHOIS Lookup (simulated)",
+  "query_date": "2026-04-15",
+  "domain": "pacificbridgesolutions.com.ph",
+  "registrar": "dotPH (Philippine domain registry)",
+  "registration_date": "2023-07-20",
+  "expiry_date": "2025-07-20",
+  "status": "EXPIRED \u2014 not renewed",
+  "registrant_name": "Ricardo Villanueva",
+  "registrant_org": "PacificBridge Solutions",
+  "registrant_email": "r.villanueva@gmail.com",
+  "registrant_phone": "+63.9171234567",
+  "name_servers": [
+    "ns1.cheaphost.ph",
+    "ns2.cheaphost.ph"
+  ],
+  "red_flags": [
+    "Domain registered on free/personal email, not corporate email",
+    "Domain expired and not renewed \u2014 suggests inactive business",
+    "Hosted on budget shared hosting, not enterprise infrastructure",
+    "Domain registered 38 days after SEC incorporation"
+  ]
+}
